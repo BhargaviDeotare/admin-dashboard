@@ -8,61 +8,61 @@ const recentOrderData = [
 		id: '1',
 		product_id: '4324',
 		customer_id: '23143',
-		customer_name: 'Shirley A. Lape',
+		customer_name: 'BHargavi Deotare',
 		order_date: '2022-05-17T03:24:00',
-		order_total: '$435.50',
+		order_total: '35,670RS',
 		current_order_status: 'PLACED',
-		shipment_address: 'Cottage Grove, OR 97424'
+		shipment_address: 'Nagpur, OR 97424'
 	},
 	{
 		id: '7',
 		product_id: '7453',
 		customer_id: '96453',
-		customer_name: 'Ryan Carroll',
+		customer_name: 'Isha Sakarde',
 		order_date: '2022-05-14T05:24:00',
-		order_total: '$96.35',
+		order_total: '7900 Rs',
 		current_order_status: 'CONFIRMED',
-		shipment_address: 'Los Angeles, CA 90017'
+		shipment_address: 'Nagpur, CA 90017'
 	},
 	{
 		id: '2',
 		product_id: '5434',
 		customer_id: '65345',
-		customer_name: 'Mason Nash',
+		customer_name: 'Anushka Kherde',
 		order_date: '2022-05-17T07:14:00',
-		order_total: '$836.44',
+		order_total: '68552 Rs',
 		current_order_status: 'SHIPPED',
-		shipment_address: 'Westminster, CA 92683'
+		shipment_address: 'Amravti, CA 92683'
 	},
 	{
 		id: '3',
 		product_id: '9854',
 		customer_id: '87832',
-		customer_name: 'Luke Parkin',
+		customer_name: 'BHumika Deotare',
 		order_date: '2022-05-16T12:40:00',
-		order_total: '$334.50',
+		order_total: '37000 Rs',
 		current_order_status: 'SHIPPED',
-		shipment_address: 'San Mateo, CA 94403'
+		shipment_address: 'Delhi, CA 94403'
 	},
 	{
 		id: '4',
 		product_id: '8763',
 		customer_id: '09832',
-		customer_name: 'Anthony Fry',
+		customer_name: 'Tanaya',
 		order_date: '2022-05-14T03:24:00',
-		order_total: '$876.00',
+		order_total: '71000 Rs',
 		current_order_status: 'OUT_FOR_DELIVERY',
-		shipment_address: 'San Mateo, CA 94403'
+		shipment_address: 'Pune, CA 94403'
 	},
 	{
 		id: '5',
 		product_id: '5627',
 		customer_id: '97632',
-		customer_name: 'Ryan Carroll',
+		customer_name: 'Gauri',
 		order_date: '2022-05-14T05:24:00',
-		order_total: '$96.35',
+		order_total: '7000 Rs',
 		current_order_status: 'DELIVERED',
-		shipment_address: 'Los Angeles, CA 90017'
+		shipment_address: 'Mumbai, CA 90017'
 	}
 ]
 

@@ -11,7 +11,7 @@ export default function DashboardStatsGrid() {
 				<div className="pl-4">
 					<span className="text-sm text-gray-500 font-light">Total Sales</span>
 					<div className="flex items-center">
-						<strong className="text-xl text-gray-700 font-semibold">$54232</strong>
+						<strong className="text-xl text-gray-700 font-semibold">54232</strong>
 						<span className="text-sm text-green-500 pl-2">+343</span>
 					</div>
 				</div>
@@ -23,7 +23,7 @@ export default function DashboardStatsGrid() {
 				<div className="pl-4">
 					<span className="text-sm text-gray-500 font-light">Total Expenses</span>
 					<div className="flex items-center">
-						<strong className="text-xl text-gray-700 font-semibold">$3423</strong>
+						<strong className="text-xl text-gray-700 font-semibold">3423</strong>
 						<span className="text-sm text-green-500 pl-2">-343</span>
 					</div>
 				</div>
